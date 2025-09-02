@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/two-sum/description/
 class Solution(object):
     def twoSum(self, nums, target):
         """
@@ -15,3 +16,4 @@ class Solution(object):
                 return[mapa[complemento], i] 
             # Se não achou nos valores já percorridos, insere em mapa
             mapa[valor] = i
+
