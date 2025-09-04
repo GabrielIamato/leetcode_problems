@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-This repository contains solutions to LeetCode exercises focused on programming logic and data structures. Each exercise is implemented in Python and covers one of the main topics in algorithms and data structures.
+This repository contains solutions to LeetCode exercises focused on programming logic and data structures. Each exercise is implemented in Python or C and covers one of the main topics in algorithms and data structures.
 
 ## Objective
 
